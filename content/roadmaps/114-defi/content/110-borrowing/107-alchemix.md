@@ -4,5 +4,5 @@ Alchemix Finance is a protocol that lets users open collateral-backed loans that
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme='yellow' href='https://alchemix-finance.gitbook.io/user-docs/'>Alchemix Docs</BadgeLink>
-<BadgeLink badgeText='Read' colorScheme='yellow' href='https://www.gemini.com/cryptopedia/alchemix-crypto-loans-alusd-alcx-dai-yearn-finance'></BadgeLink>
 <BadgeLink badgeText='Read' colorScheme='yellow' href='https://www.gemini.com/cryptopedia/alchemix-crypto-loans-alusd-alcx-dai-yearn-finance'>Alchemix (ALCX): DeFi Lending with Autopay</BadgeLink>
+<BadgeLink badgeText='Read' colorScheme='yellow' href='https://coinmarketcap.com/alexandria/article/alchemix-pulling-back-the-curtain-flipside-crypto'>Alchemix — Pulling Back the Curtain: Flipside Crypto</BadgeLink>

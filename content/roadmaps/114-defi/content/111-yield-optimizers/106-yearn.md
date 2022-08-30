@@ -5,4 +5,6 @@ Yearn is a decentralized aggregator of various lending protocols that optimizes 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme='yellow' href='https://docs.yearn.finance/'>Yearn Docs</BadgeLink>
 <BadgeLink badgeText='Read' colorScheme='yellow' href='https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol'>Yearn Finance and Money Robots (YFI): Automated DeFi Strategy</BadgeLink>
+<BadgeLink badgeText='Read' colorScheme='yellow' href='https://beincrypto.com/learn/what-is-yearn-finance-yfi/'>What Is Yearn.finance (YFI)?</BadgeLink>
+<BadgeLink badgeText='Read' colorScheme='yellow' href='https://kriptomat.io/cryptocurrencies/yearn-finance/what-is-yearn-finance/'>What is cryptocurrency Yearn Finance (YFI) (YFI) and how does it work?</BadgeLink>
 <BadgeLink badgeText='Read' colorScheme='yellow' href='https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432'>Yearn Finance explained: What are Vaults and Strategies?</BadgeLink>
