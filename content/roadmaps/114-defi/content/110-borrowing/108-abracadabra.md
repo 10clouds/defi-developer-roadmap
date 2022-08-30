@@ -1,4 +1,5 @@
 # Abracadabra
+![](https://legacy.abracadabra.money/img/home-win.17e36021.svg)
 
 Abracadabra money is a lending platform that uses interest-bearing tokens (ibTKNs) as collateral to borrow a USD pegged stablecoin (Magic Internet Money - MIM), that can be used as any other traditional stablecoin.
 

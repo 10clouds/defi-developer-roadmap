@@ -1,4 +1,5 @@
 # Proof of Work
+![](https://globalcoinresearch.com/wp-content/uploads/2022/04/pow.jpg)
 
 Proof of work is a method that uses computing power to achieve distributed consensus. The work, in this case, is generating a hash (a long string of characters) that matches the target hash for the current block. The crypto miner who does this wins the right to add that block to the blockchain and receive rewards.
 

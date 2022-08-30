@@ -1,5 +1,5 @@
 # Beefy
-
+![](https://logotyp.us/files/beefy.svg)
 Beefy is a decentralized, multichain yield optimizer that allows its users to earn compound interest on their crypto holdings. It supports more than a dozen of different EVM blockchains.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>

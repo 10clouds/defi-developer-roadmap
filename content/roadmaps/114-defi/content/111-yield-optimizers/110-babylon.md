@@ -1,4 +1,5 @@
 # Babylon
+![](https://www.babylon.finance/static/media/Garden.a0cf4914.svg)
 
 Babylon is a community-led asset management protocol that enables users to create investment clubs (called gardens) and invest in DeFi together. It’s built on the Ethereum network and it’s non-custodial, transparent, permission-less, and governed by the community.
 

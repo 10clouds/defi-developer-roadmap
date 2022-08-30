@@ -1,4 +1,5 @@
 # Sushiswap V1
+![](https://gieldomania.pl/wp-content/uploads/2021/06/sushiswap-co-to-jest-1-e1623069515813-350x350.jpg)
 
 Sushiswap is a peer-to-peer system designed for exchanging cryptocurrencies (ERC-20 Tokens) on the Ethereum blockchain. Sushiswap was originally forked from uniswap V2.
 

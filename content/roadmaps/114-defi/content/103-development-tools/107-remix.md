@@ -1,4 +1,5 @@
 # Remix
+![](https://moonbeam.network/wp-content/uploads/2021/10/remix-500.png)
 
 Remix is an open source web based development environment. Remix allows developers to write, compile, deploy solidity code to Ethereum like blockchains as well as debug it. It feauters also interactions with deployed smart contracts.
 

@@ -1,4 +1,5 @@
 # Proof of Stake
+![](https://miro.medium.com/max/1000/1*X1523S70lXzN1lyg8sm7mQ.jpeg)
 
 In the proof-of-stake system, validators (the proof-of-stake equivalent of miners) are chosen to find a block based on the number of tokens they hold rather than having an arbitrary competition between miners determine which node can add a block.
 

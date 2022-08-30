@@ -1,4 +1,5 @@
 # Yearn
+![](https://paperwriter.ca/wp-content/uploads/2022/06/Decentraland-MANA-Gnox-Token-GNOX-and-Yearn-Finance-YFI.jpg)
 
 Yearn is a decentralized aggregator of various lending protocols that optimizes for the highest yield. Users can develop their own strategies and introduce the to the protocol. The strategies deployed include providing assets for lending, earning project tokens with yield farming, providing liquidity, or a combination of these and other investment strategies across a wide range of DeFi lending protocols. 
 

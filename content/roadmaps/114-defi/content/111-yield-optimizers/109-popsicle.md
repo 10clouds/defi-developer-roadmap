@@ -1,4 +1,5 @@
 # Popsicle
+![](https://crypto-economy.com/wp-content/uploads/2021/08/popsicle.jpg)
 
 Popsicle Finance is a multichain yield optimization platform for Liquidity Providers. It manages crypto investment by allocating it to various liquidity pools at DeXs to maximize yield. As such, it helps users take a more “hand-off” approach to yield optimization. It supports Ethereum, Avalanche, Fantom, BSC, Arbitrum and Polygon blockchains.
 

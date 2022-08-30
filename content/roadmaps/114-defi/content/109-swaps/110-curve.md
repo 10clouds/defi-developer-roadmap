@@ -1,4 +1,5 @@
 # Curve
+![](https://public.bnbstatic.com/static/academy/uploads-original/04890cb8cf134a4f86b10fca40381ba6.png)
 
 Curve Finance is a decentralized exchange for trading cryptocurrency that focuses on efficient stablecoin trading. Curve's focus on stablecoins allows investors to avoid more volatile crypto assets. It is an automated market maker (AMM) that maintains low fees and slippage through the use of liquidity pools.
 

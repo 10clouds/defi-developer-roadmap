@@ -1,4 +1,5 @@
 # Storage Slots
+![](https://programtheblockchain.com/storage/storage.png)
 
 Each smart contract running in the Ethereum Virtual Machine (EVM) maintains state in its own permanent storage. This storage can be thought of as a very large array, initially full of zeros. Each value in the array is 32-bytes wide, and there are 2^256 such values. A smart contract can read from or write to a value at any location. That’s the extent of the storage interface. The storage mechanism ensures there are no conflicts in storage locations and follows a set of rules. Using these rules we can decode the state of any contract. Decoding the data stored in a map requires knowing the keys that are used. Decoding of contract data is performed using the RPC call eth_getStorageAt().
 

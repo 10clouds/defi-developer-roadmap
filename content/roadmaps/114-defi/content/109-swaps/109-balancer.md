@@ -1,4 +1,5 @@
 # Balancer
+![](https://storage.googleapis.com/accesswire/logos/subaccounts/25549.png?v=0)
 
 Balancer is an automated market maker (AMM) that allows users to create liquidity pools with up to eight different tokens in any ratio. Balancer pools can be thought of as automatically rebalancing portfolios, wherein anyone can create or join a decentralized index fund and fees go to liquidity providers instead of intermediary fund managers. The Balancer protocol is governed by the Balancer (BAL) token, which can be earned via liquidity mining by depositing cryptocurrencies into Balancer’s liquidity pools.
 

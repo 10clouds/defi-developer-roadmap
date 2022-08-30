@@ -1,4 +1,5 @@
 # Diamond Proxy
+![](https://miro.medium.com/max/1400/0*FhaSEkj8aaMnjcff)
 
 Is one of the proxy patterns. A diamond is a contract that gets its external functions from other deployed contracts called facets. Facets are separate, independent contracts that can share internal functions, libraries and state variables.
 

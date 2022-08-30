@@ -1,4 +1,5 @@
 # Compound
+![](https://icodrops.com/wp-content/uploads/2020/06/Compound.png)
 
 Compound finance is a decentrlized lending protocol used by crypto investors to lend and borrow their digital assets.
 

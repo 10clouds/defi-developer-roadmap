@@ -1,4 +1,5 @@
 # Trezor
+![](https://trezor.io/static/images/trezor-logo-black.png)
 
 It is a hardware wallet, created to store cryptocurrencies in a secure way. It is developed by SatoshiLabs s.r.o.
 It allows to sign transacions offline whithout exposing private key to a device connected to the internet.
