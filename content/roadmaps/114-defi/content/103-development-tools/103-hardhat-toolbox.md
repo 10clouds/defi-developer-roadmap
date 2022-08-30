@@ -15,5 +15,5 @@ When you use this plugin, you'll be able to:
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-toolbox'>Hardhat docs on toolbox</BadgeLink>
-<BadgeLink badgeText='Watch' href='hhttps://www.youtube.com/watch?v=OUiqW2k0PHs'>How to Upgrade to Hardhat Toolbox in 2 Minutes
+<BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=OUiqW2k0PHs'>How to Upgrade to Hardhat Toolbox in 2 Minutes
 </BadgeLink>

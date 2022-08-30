@@ -1,5 +1,7 @@
 # Block
 
+![](https://ethereum.org/static/85d784391401f89209d3bcc51e0ea677/302a4/tx-block.png)
+
 Blocks packs transactions together and relays on the hash of previous block for consistency. This mechanism mitigates fradulent activity - forging one of the previous blocks would require huge amounts of computing power - to re-calculate all previous blocks.
 
 You can viewed all [blocks](https://etherscan.io/blocks) at Etherscan.

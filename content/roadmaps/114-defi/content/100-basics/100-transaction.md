@@ -1,5 +1,7 @@
 # Transaction
 
+![](https://ethereum.org/static/570dedb843948d6bef5e21a6769d5c35/302a4/tx.png)
+
 A transaction is an action that occurs on blockchain when user wants to interact with smart contract or send funds to someone. Each transaction has it's unique hash derived from the transaction inputs.
 
 Such transaction can be viewed at Etherscan for [example](https://etherscan.io/tx/0xf3e5e4fea27de593b4db8031e1105278b78c60d9d1faeabeab9305a5fedb00e2). Every transaction has required fields that need to be filled up and later signed by a user in order to get processed.
