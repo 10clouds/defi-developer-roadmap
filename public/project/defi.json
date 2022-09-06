@@ -3582,7 +3582,7 @@
           "x": "372",
           "y": "1591",
           "properties": {
-            "controlName": "104-development-tools:foundry-fuzzing"
+            "controlName": "104-development-tools:foundry-fuzzying"
           },
           "children": {
             "controls": {
@@ -8918,7 +8918,7 @@
           "x": "355",
           "y": "3415",
           "properties": {
-            "controlName": "102-ecosystem:the-graph"
+            "controlName": "102-ecosystem:thegraph"
           },
           "children": {
             "controls": {
