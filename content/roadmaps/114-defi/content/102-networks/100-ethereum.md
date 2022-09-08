@@ -8,4 +8,3 @@ Ethereum is a decentralized blockchain platform that establishes a peer-to-peer 
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://ethereum.org/en/'>Ethereum official site</BadgeLink>
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=jYLXorNpLlE'>What is ethereum, and how does it work?
 </BadgeLink>
-<BadgeLink colorScheme='yellow' badgeText='Read' href='https://etherscan.io/'>Ethereum explorer </BadgeLink>
