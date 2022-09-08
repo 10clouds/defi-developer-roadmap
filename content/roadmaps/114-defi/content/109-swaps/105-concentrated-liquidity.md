@@ -6,4 +6,4 @@ Concentrated liquidity refers to the ability for liquidity providers (LPs) to se
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Watch' href='https://youtu.be/ClWR1570UQw?t=252'>Uniswap V3 Explained - Concentrated Liquidity</BadgeLink>
-<BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.kraken.com/en-us/learn/trading/crypto-arbitrage'>Crypto Arbitrage</BadgeLink>
+<BadgeLink colorScheme='yellow' badgeText='Read' href='https://docs.uniswap.org/protocol/concepts/V3-overview/concentrated-liquidity'>Uniswap docs</BadgeLink>
