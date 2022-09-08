@@ -14,5 +14,7 @@ Main features introduced in V2:
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme='yellow' href='https://docs.uniswap.org/protocol/introduction'>What Is Uniswap?</BadgeLink>
-<BadgeLink badgeText='Read' colorScheme='yellow' href='https://10clouds.com/blog/defi/uniswap-v3-explained/'>UniSwap V3 Explained</BadgeLink>
-<BadgeLink badgeText='Read' colorScheme='yellow' href='https://medium.com/taipei-ethereum-meetup/uniswap-v3-features-explained-in-depth-178cfe45f223'>Uniswap v3 Features Explained in Depth</BadgeLink>
+<BadgeLink badgeText='Read' colorScheme='yellow' href='https://10clouds.com/blog/defi/uniswap-v3-explained/'>Uniswap V3 Explained</BadgeLink>
+<BadgeLink badgeText='Read' colorScheme='yellow' href='https://uniswapv3book.com/'>Uniswap V3 Development Book</BadgeLink>
+<BadgeLink badgeText='Read' colorScheme='yellow' href='https://medium.com/taipei-ethereum-meetup/uniswap-v3-features-explained-in-depth-178cfe45f223'>Uniswap 
+v3 Features Explained in Depth</BadgeLink>
