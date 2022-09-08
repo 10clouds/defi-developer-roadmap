@@ -4,5 +4,3 @@ Foundry has builtin fuzzy testing that supplies _random_ numbers to contract fun
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://book.getfoundry.sh/forge/fuzz-testing'>Foundry Fuzz Testing</BadgeLink>
-<BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=OUiqW2k0PHs'>How to Upgrade to Hardhat Toolbox in 2 Minutes
-</BadgeLink>
