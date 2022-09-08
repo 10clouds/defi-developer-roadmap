@@ -13,5 +13,4 @@ For compilation we use solc.
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://ethereum.org/en/developers/docs/smart-contracts/compiling/'>Compiling Smart Contracts</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://docs.soliditylang.org/en/v0.8.16/using-the-compiler.html'>Using the Compiler</BadgeLink>
-<BadgeLink colorScheme='yellow' badgeText='Read' href='https://github.com/crytic/evm-opcodes'>EVM OPCODES</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://github.com/ethereum/solc-js'>Solc | Compiler</BadgeLink>

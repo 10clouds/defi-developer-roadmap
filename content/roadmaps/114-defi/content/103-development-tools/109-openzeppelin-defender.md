@@ -10,4 +10,4 @@ OpenZeppelin Defender is a web based application that allows developers to perfo
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme='yellow' href='https://docs.moonbeam.network/builders/build/eth-api/dev-env/openzeppelin/defender/'>OpenZeppelin Defender</BadgeLink>
-<BadgeLink badgeText='Read' colorScheme='yellow' href='https://www.openzeppelin.com/defender'>OpenZeppelin Defender</BadgeLink>
+<BadgeLink badgeText='Read' colorScheme='yellow' href='https://www.openzeppelin.com/defender'>OpenZeppelin Defender Official Docs</BadgeLink>
