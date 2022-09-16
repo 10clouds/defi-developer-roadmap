@@ -24,7 +24,7 @@
   "networks:rinkeby": "/roadmaps/114-defi/content/102-networks/105-rinkeby.md",
   "networks:goerli": "/roadmaps/114-defi/content/102-networks/106-goerli.md",
   "networks:avalanche-fuji": "/roadmaps/114-defi/content/102-networks/107-avalanche-fuji.md",
-  "networks:polygon-mumbai": "/roadmaps/114-defi/content/102-networks/108-posix-basics.md",
+  "networks:polygon-mumbai": "/roadmaps/114-defi/content/102-networks/108-polygon-mumbai.md",
   "networks:faucet": "/roadmaps/114-defi/content/102-networks/109-faucet.md",
   "development-tools": "/roadmaps/114-defi/content/103-development-tools/readme.md",
   "development-tools:hardhat": "/roadmaps/114-defi/content/103-development-tools/100-hardhat.md",
