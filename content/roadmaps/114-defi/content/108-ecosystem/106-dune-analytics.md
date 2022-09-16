@@ -5,3 +5,4 @@ Currently Dune supports Ethereum, Polygon, BSC, Optimism and Gnosis chain.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme='yellow' href='https://docs.dune.com/'>Introduction to Dune</BadgeLink>
+<BadgeLink badgeText='Read' colorScheme='yellow' href='https://dune.com/ploverzx/usf-2'>Example of Dune Analytics</BadgeLink>
