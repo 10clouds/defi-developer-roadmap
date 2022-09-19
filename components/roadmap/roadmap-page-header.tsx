@@ -24,13 +24,13 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
 
   return (
     <Box
-      pt={['25px', '20px', '45px']}
+      pt={['25px', '20px', '30px']}
       pb={['20px', '15px', '30px']}
       borderBottomWidth={1}
       mb="30px"
     >
       <Container maxW="container.md" position="relative">
-        <NewAlertBanner />
+        {/* <NewAlertBanner /> */}
         <Heading
           as="h1"
           color="black"
@@ -41,7 +41,7 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
           {roadmap.title}
         </Heading>
         <Text fontSize={['13px', '14px', '15px']}>{roadmap.description}</Text>
-        <Flex justifyContent="space-between" alignItems={'center'} mt="20px">
+        {/* <Flex justifyContent="space-between" alignItems={'center'} mt="20px">
           <Stack isInline flex={1}>
             <Button
               d={['flex', 'flex']}
@@ -106,7 +106,7 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
               </Button>
             </Box>
           </Stack>
-        </Flex>
+        </Flex> */}
         {isInteractiveRoadmap(roadmap.id) && (
           <Text
             mt="30px"

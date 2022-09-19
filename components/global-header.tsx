@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { HamburgerIcon } from '@chakra-ui/icons';
 import { Box, CloseButton, Container, Flex, IconButton, Image, Link, Stack, Text } from '@chakra-ui/react';
-import RoadmapLogo from '../components/icons/roadmap.svg';
+import CloudsLogo from '../components/icons/10clouds-logo.svg';
 import siteConfig from '../content/site.json';
 
 type MenuLinkProps = {
@@ -92,24 +92,24 @@ export function GlobalHeader(props: GlobalHeaderProps) {
   const { variant = 'solid' } = props;
 
   return (
-    <Box bg={variant === 'solid' ? 'gray.900' : 'transparent'} p='20px 0'>
+    <Box bg={variant === 'solid' ? 'rgb(16, 7, 39)' : 'transparent'} p='20px 0'>
       <Container maxW='container.md'>
         <Flex justifyContent='space-between' alignItems='center'>
           <Box>
             <Link w='100%'
                   d='flex'
-                  href='/'
+                  href='https://www.10clouds.com/'
                   alignItems='center'
                   color='white'
                   fontWeight={600}
                   _hover={{ textDecoration: 'none' }}
                   fontSize='18px'>
-              <RoadmapLogo style={{ height: '30px', width: '30px', marginRight: '10px' }} />
-              <Text d={['block', 'none', 'block']} as='span'>roadmap.sh</Text>
+              <CloudsLogo style={{ height: '30px', marginRight: '10px', fill: 'white' }} />
+              {/* <Text d={['block', 'none', 'block']} as='span'>roadmap.sh</Text> */}
             </Link>
           </Box>
-          <DesktopMenuLinks />
-          <MobileMenuLinks />
+          {/* <DesktopMenuLinks />
+          <MobileMenuLinks /> */}
         </Flex>
       </Container>
     </Box>
