@@ -41,6 +41,17 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
           {roadmap.title}
         </Heading>
         <Text fontSize={['13px', '14px', '15px']}>{roadmap.description}</Text>
+        <Text fontSize={['13px', '14px', '15px']} mt="1em">
+          <b>Does it sound like the perfect workplace for you?</b>
+          <br />
+          Join our team by applying to{' '}
+          <Link color="blue" href="https://10clouds.com/careers/">one of our job ads</Link> or just{' '}
+          <Link color="blue" href="https://10clouds.com/careers/talent-pool-application-form-poland/apply/">
+            send us your CV
+          </Link>
+          . Who knows, we might be looking for someone with your skillset right
+          now.
+        </Text>
         {/* <Flex justifyContent="space-between" alignItems={'center'} mt="20px">
           <Stack isInline flex={1}>
             <Button
